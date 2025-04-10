@@ -5,7 +5,7 @@ Animaly is an introductory project to the concepts of API development. The appli
 ## Done with: 
 
 - **Front-end:** HTML, Tailwind CSS and JavaScript  
-- **Back-end:** Python com FastAPI  
+- **Back-end:** Python + FastAPI  
 - **Database:** CSV file  
 
 ## How to run the project:
